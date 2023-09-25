@@ -42,7 +42,7 @@
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.18.2",
     "html-webpack-plugin": "^3.2.0",
-    "npm-check-updates": "^3.1.20",
+    "npm-check-updates": "^16.14.4",
     "open-browser-webpack-plugin": "0.0.5",
     "optimist": "^0.6.1",
     "rimraf": "^2.6.3",
